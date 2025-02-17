@@ -1,0 +1,26 @@
+Artificial Neural Network
+
+Description
+Key concept of artificial neural network
+
+1. Neurons: node or unit
+2. Layers
+3. Weights and biases
+4.Activation function
+5.Forward propagation
+6. Training and backpropagation
+7. Learning rate
+
+
+Types of artificial neural networks
+1. Feedforward neural network(FNNs)
+2. Convolutional neural network(CNNs)
+3. Recurrent neural network
+4. Generative Adversarial Netwoeks
+
+Applications of ANN:
+1. Image recognition
+2. NLP
+3. Financial prediction
+4.Healthcare
+5. autonomous vehicles
